@@ -8,7 +8,7 @@
             "name": "Abrir no Chrome",
             "type": "chrome",
             "request": "launch",
-            "file": "${workspaceFolder}/index.html",
+            "file": "${workspaceFolder}/fdlhigienizacao.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
